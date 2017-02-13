@@ -71,7 +71,6 @@ namespace HelloWorldTests
             var mockConnection = new Mock<IConnectionFactory>();
 
             var robot = new MrRoboto(mockLogger.Object, mockCommunicator.Object, mockConnection.Object);
-
             robot.WriteToDatabase();
         }
 
