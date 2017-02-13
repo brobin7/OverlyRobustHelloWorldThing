@@ -4,7 +4,6 @@ using System.Diagnostics.CodeAnalysis;
 using HelloWorld;
 using HelloWorld.Interfaces;
 using HelloWorldTests.TestAttributes;
-\
 using Moq;
 using NLog;
 
