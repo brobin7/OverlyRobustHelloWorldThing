@@ -33,11 +33,6 @@ namespace HelloWorld
             return Connection.QueryAsync<T>(command);
         }
 
-        public Task<int> ExecuteAsync(CommandDefinition command)
-        {
-            return Connection.ExecuteAsync(command);
-        }
-
         private static WeakReference<T> ConstructWeakReference<T>(T reference) where T : class
         {
             if (reference != null)
