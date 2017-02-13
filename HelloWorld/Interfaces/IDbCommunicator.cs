@@ -8,6 +8,5 @@ namespace HelloWorld.Interfaces
     {
         Task<T> QuerySingleAsync<T>(CommandDefinition command);
         Task<IEnumerable<T>> QueryAsync<T>(CommandDefinition command);
-        Task<int> ExecuteAsync(CommandDefinition command);
     }
 }
