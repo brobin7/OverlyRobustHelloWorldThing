@@ -22,7 +22,7 @@ namespace HelloWorld.Api.Controllers
         }
 
         [HttpGet]
-        [Route("api/greetings")]
+        [Route("api/Greeting")]
         public IHttpActionResult GreetingsGet()
         {
             m_robot.Greeting();
