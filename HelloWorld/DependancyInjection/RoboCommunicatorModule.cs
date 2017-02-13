@@ -8,6 +8,7 @@ namespace HelloWorld.DependancyInjection
         protected override void Load(ContainerBuilder builder)
         {
             base.Load(builder);
+
             builder.RegisterType<RoboDbCommunicator>()
                 .As<IDbCommunicator>();
         }
