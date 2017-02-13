@@ -41,7 +41,7 @@ namespace HelloWorldTests
             var robot = new MrRoboto(mockLogger.Object, null, mockConnection.Object);
         }
 
-        [TestMethod, UnitTest, ExpectedException(typeof(IConnectionFactory))]
+        [TestMethod, UnitTest, ExpectedException(typeof(ArgumentNullException))]
         public void MrRobotoNoConnnectionFactoryTest()
         {
             var mockLogger = new Mock<ILogger>();
