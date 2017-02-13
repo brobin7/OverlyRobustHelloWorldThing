@@ -21,12 +21,7 @@ namespace HelloWorld
             m_connection = ConstructWeakReference(connection);
         }
 
-        private IDbConnection Connection => ResolveWeakReference(m_connection);
-        
-        public Task<T> QuerySingleOrDefaultAsync<T>(CommandDefinition command)
-        {
-            return Connection.QuerySingleOrDefaultAsync<T>(command.CommandText, command.Parameters, command.Transaction, command.CommandTimeout, command.CommandType);
-        }
+        private IDbConnection Connection => ResolveWeakReference(m_connection);  
         
         public Task<T> QuerySingleAsync<T>(CommandDefinition command)
         {
