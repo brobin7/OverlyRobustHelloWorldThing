@@ -11,3 +11,15 @@ C:\Users\BROBINSON\Desktop\Hello World\HelloWorld\HelloWorld\bin\Debug\NLog.xml
 C:\Users\BROBINSON\Desktop\Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\BROBINSON\Desktop\Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
 C:\Users\BROBINSON\Desktop\Hello World\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld\bin\Debug\Autofac.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld\bin\Debug\Dapper.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld\bin\Debug\NLog.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld\bin\Debug\Autofac.xml
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld\bin\Debug\Dapper.xml
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld\bin\Debug\NLog.xml
