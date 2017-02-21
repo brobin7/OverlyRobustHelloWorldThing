@@ -18,3 +18,23 @@ C:\Users\BROBINSON\Desktop\Hello World\HelloWorld\HelloWorldTests\bin\Debug\Dapp
 C:\Users\BROBINSON\Desktop\Hello World\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
 C:\Users\BROBINSON\Desktop\Hello World\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
 C:\Users\BROBINSON\Desktop\Hello World\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\Castle.Core.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.exe
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\Moq.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\NLog.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\Autofac.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\Dapper.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\Castle.Core.xml
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\Moq.xml
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\NLog.xml
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\Autofac.xml
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorldTests\bin\Debug\Dapper.xml

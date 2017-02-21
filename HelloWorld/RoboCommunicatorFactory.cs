@@ -5,7 +5,7 @@ namespace HelloWorld
 {
     public class RoboCommunicatorFactory : ICommunicatorFactory
     {
-        public IDbCommunicator CreateDbConnection(IDbConnection connection)
+        public IDbCommunicator AccessDb(IDbConnection connection)
         {
             return new RoboDbCommunicator(connection);
         }
