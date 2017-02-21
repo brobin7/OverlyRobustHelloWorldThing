@@ -4,6 +4,6 @@ namespace HelloWorld.Interfaces
 {
     public interface ICommunicatorFactory
     {
-        IDbCommunicator CreateDbConnection(IDbConnection connection);
+        IDbCommunicator AccessDb(IDbConnection connection);
     }
 }
