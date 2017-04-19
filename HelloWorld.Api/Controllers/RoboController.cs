@@ -11,6 +11,7 @@ namespace HelloWorld.Api.Controllers
     {
         private readonly IRobot m_robot;
 
+        public RoboController() { }
         public RoboController(IRobot robot)
         {
             if (robot == null)
