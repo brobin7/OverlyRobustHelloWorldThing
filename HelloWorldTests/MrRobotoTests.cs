@@ -18,9 +18,8 @@ namespace HelloWorldTests
             var mockLogger = new Mock<ILogger>();
             var mockCommunicator = new Mock<ICommunicatorFactory>();
             var mockConnection = new Mock<IConnectionFactory>();
-
+            
             var robot = new MrRoboto(mockLogger.Object, mockCommunicator.Object, mockConnection.Object);
-
             Assert.IsNotNull(robot);
         }
 

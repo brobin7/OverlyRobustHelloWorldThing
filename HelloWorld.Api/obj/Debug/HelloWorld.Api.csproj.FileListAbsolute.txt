@@ -196,3 +196,12 @@ C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld.Api\bin\Sys
 C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld.Api\bin\NLog.xml
 C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld.Api\bin\Autofac.xml
 C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld.Api\bin\Dapper.xml
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld.Api\bin\Autofac.Integration.Owin.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld.Api\bin\Autofac.Integration.WebApi.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld.Api\bin\Autofac.Integration.WebApi.Owin.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld.Api\bin\Microsoft.Owin.Cors.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld.Api\bin\System.Web.Cors.dll
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld.Api\bin\Autofac.Integration.Owin.xml
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld.Api\bin\Autofac.Integration.WebApi.xml
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld.Api\bin\Autofac.Integration.WebApi.Owin.xml
+C:\Users\BROBINSON\OverlyRobustHelloWorldThing\HelloWorld\HelloWorld.Api\bin\Microsoft.Owin.Cors.xml
